@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+h1, h2, h3, .nav-item, .card-title{font-family:"Castoro"; text-align: center;}
+
+p,li, form{ font-family: 'Libre Caslon Display', serif; font-size:20px;}
+
+p, form {padding: 50px;}
+
+.shortp {font-family: 'Libre Caslon Display';text-align: center;}
+
+.navbar-nav, .navbar, .nav-item, .tancolor {background-color:#E7D8C9; text-decoration: none; list-style-image: none;}
+
+.jumbotron {
+  background-color: white;
+  min-width: 500px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  margin: 10px 10px 10px 10px;}
+
+.methods, footer, .writing {  border: 1px;
+  padding: 25px 50px;}
+
+  footer{background-color: white; font-family:"Castoro";}
+
+ .intro {background-color:#E6BEAE; padding: 25px 50px;}
+
+ .identify {color: black; text-decoration: underline; text-decoration-color: black;font-family: 'Libre Caslon Display';}
+
+
+form {background-color:#E7D8C9;}
+
+.center {
+  margin: 0 auto;
+  width: 0 auto;
+  padding: 10px;
+  border: 3px;}
+
+img.center{
+  margin: 0 auto;
+  width: 600px;
+  padding: 10px;
+  border: 3px;}
+
+.carouselExampleFade, .carousel-item
+{width:500px; height:600px;justify-content: center;}
+
+.spacey{
+  line-height: 1.6;
+  font-size:20px;
+  justify-content: center;
+  margin-left: 300px;
+}
+
+a:hover, a, .btn, btn-primary,.card {
+  color:#B2967D;
+}
+
+.who{
+  text-decoration: none;   
+	margin: auto;
+  width: 60%;
+  padding: 10px;
+  border: 3px;}
+
